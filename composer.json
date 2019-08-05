@@ -1,5 +1,5 @@
 {
-    "name": "nealis/db2ibmientityrepository",
+    "name": "nealis/db2ibmi-entityrepository",
     "description": "A Db2Ibmi customization of EntityRepository",
     "type": "library",
     "license": "MIT",
