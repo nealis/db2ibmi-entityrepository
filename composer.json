@@ -1,0 +1,21 @@
+{
+    "name": "nealis/db2ibmientityrepository",
+    "description": "A Db2Ibmi customization of EntityRepository",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Guido Sangiovanni",
+        "email": "sangiovanni.guido@gmail.com"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Nealis\\Db2IbmiEntityRepository\\": "src/"
+      }
+    },
+    "require": {
+        "nealis/entityrepository": "^1.0",
+        "nealis/dbal-ibmi": "^1.0"
+    }
+}
